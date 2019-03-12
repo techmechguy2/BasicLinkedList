@@ -28,7 +28,7 @@ class Linkedlist{
     {
         if(head==null)
         {
-            System.out.println("llist is empty");
+            System.out.println("list is empty");
         }
         else
         {
